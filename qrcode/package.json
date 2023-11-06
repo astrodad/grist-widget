@@ -6,7 +6,7 @@
   "grist": [
     {
       "name": "QR Code",
-      "url": "https://gristlabs.github.io/grist-widget/qrcode/index.html",
+      "url": "https://astrodad.github.io/grist-widget/qrcode/index.html",
       "widgetId": "@gristlabs/widget-qrcode",
       "published": true,
       "accessLevel": "read table",

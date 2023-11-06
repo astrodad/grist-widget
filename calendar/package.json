@@ -6,7 +6,7 @@
   "grist": [
     {
       "name": "Calendar",
-      "url": "https://gristlabs.github.io/grist-widget/calendar/index.html",
+      "url": "https://astrodad.github.io/grist-widget/calendar/index.html",
       "widgetId": "@gristlabs/widget-calendar",
       "published": true,
       "accessLevel": "full",
@@ -14,7 +14,7 @@
       "archive": {
         "domains": ["uicdn.toast.com", "maxcdn.bootstrapcdn.com"],
         "entrypoints": [
-          "https://gristlabs.github.io/grist-widget/calendar/i18n/"
+          "https://astrodad.github.io/grist-widget/calendar/i18n/"
         ]
       }
     }

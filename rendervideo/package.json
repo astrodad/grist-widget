@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "grist": {
     "name": "Grist Video Player",
-    "url": "https://gristlabs.github.io/grist-widget/rendervideo/index.html",
+    "url": "https://astrodad.github.io/grist-widget/rendervideo/index.html",
     "widgetId": "@gristlabs/widget-rendervideo",
     "published": true,
     "accessLevel": "read table",

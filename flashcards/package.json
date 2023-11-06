@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "grist": {
     "name": "Flashcards",
-    "url": "https://gristlabs.github.io/grist-widget/flashcards/index.html",
+    "url": "https://astrodad.github.io/grist-widget/flashcards/index.html",
     "widgetId": "@gristlabs/flashcards",
     "published": true,
     "accessLevel": "read table",
